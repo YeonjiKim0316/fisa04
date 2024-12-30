@@ -35,9 +35,9 @@ unordered list
 name="김연지"
 age=38
 ```
-
-
-
+|  name  | gender|
+|--------|-------|
+|김연지   | 여성  |
 
 add new line
 
