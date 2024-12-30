@@ -28,7 +28,13 @@ unordered list
 - 목차 2
     - 하위 목차 1
 
-수평선 
+강조하고 싶은 한줄 코드 `python`
+
+```python
+
+name="김연지"
+age=38
+```
 
 
 
